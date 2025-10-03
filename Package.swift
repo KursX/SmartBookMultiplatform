@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "TranslatorsModule",
-         url: "https://github.com/KursX/SmartBookMultiplatform/releases/tag/v0.1",
+         url: "https://github.com/KursX/SmartBookMultiplatform/releases/download/v0.1/Multiplatform.xcframework.zip",
          checksum:"fe7cf62f3fe623cdaa44ad0a3e5fd7835921e1135342dcb24fced5b01c7e7223")
    ]
 )
