@@ -1,4 +1,4 @@
-// swift-tools-version:5.3
+// swift-tools-version:6.0
 import PackageDescription
 
 let package = Package(
@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "SmartBookMultiplatform",
-         url: "https://github.com/KursX/SmartBookMultiplatform/releases/download/v2.4/Multiplatform.xcframework.zip",
-         checksum:"330569f42f73b14a73284c5a99c1e88ae5035ef9917d701a5a40b479fe6d5441")
+         url: "https://github.com/KursX/SmartBookMultiplatform/releases/download/v2.5/Multiplatform.xcframework.zip",
+         checksum:"b100d5b6c287fed7f898b6fe474cdf6a843abfb38b2ddcd1f41cfe77122f869f")
    ]
 )
