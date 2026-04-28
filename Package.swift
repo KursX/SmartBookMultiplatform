@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "SmartBookMultiplatform",
-         url: "https://github.com/KursX/SmartBookMultiplatform/releases/download/v7.1/Multiplatform.xcframework.zip",
-         checksum: "cf5bc348fe48eb4baf77f2d7ec01c8ab0d51f61eafba553bb8b2d946bb2e55fd")
+         url: "https://github.com/KursX/SmartBookMultiplatform/releases/download/v7.2/Multiplatform.xcframework.zip",
+         checksum: "7cb6f8e939d8e6b5d7393b2a59f9b065d6bc4cc0007e1291ab2b6fbc1fbb426c")
    ]
 )
