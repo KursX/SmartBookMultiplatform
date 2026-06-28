@@ -19,5 +19,5 @@ sed -i '' "s|checksum: *\"[a-fA-F0-9]*\"|checksum: \"$CHECKSUM\"|g" "Package.swi
 git add Package.swift
 git commit -m "$VERSION"
 git tag v$VERSION
-git push
+git push origin main
 git push --tags
